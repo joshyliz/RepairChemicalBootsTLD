@@ -1,5 +1,6 @@
 # RepairChemicalBootsTLD
 Adds the ability to repair the Chemical Boots at the mill.
+
 ![](https://static.wikia.nocookie.net/intothelongdark/images/6/60/Chemical_Boots_icon.png/revision/latest?cb=20231206021856)
 
 How to install:
